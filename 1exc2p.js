@@ -21,7 +21,7 @@ if(mediaind>guardaM){
 if(mediaind<Nguarda){
     Nguarda=mediaind;
     ng=nome;
-// console.log(`${gn}`) 
+
 }
 }
 let mediaj = contador/quantidade;
